@@ -8,5 +8,5 @@ console.log('Hello World!');
     fractions 
 
 */
-console.log("Daniela")
-console.log("sopes")
+console.log("Daniela");
+console.log("sopes");
