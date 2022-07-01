@@ -19,8 +19,13 @@ console.log("sopes");
         
 
     //Daily Challenge
-        let  = `supeercalifragilisticexpialidocious`;
-            console.log('word.length');
-        console.log (A);
-        console.log(3n)
-        console.log(typeof 'word')
+    console.log("supeercalifragilisticexpialidocious".length);
+       const maryPoppins= "supeercalifragilisticexpialidocious";
+       console.log(maryPoppins.length)
+        console.log(`Length of ${maryPoppins}: ${maryPoppins.length} `);     
+       
+        const number1  = 1;
+        const bigNumber1=1n;
+        console.log(`Number: ${number1}, type: ${typeofnumber1}`);
+        console.log (`Big Integer: ${bigNumber1}, type: ${typeof bigNumber1}`);
+
